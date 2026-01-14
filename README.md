@@ -10,16 +10,37 @@ Computing as a field can be considered the pursuit of creating an electronic pow
 
 ## Critical Danger ☢️
 
-1. **Gen AI is not new.**
-3. **Gen AI as we know it today is v3.**
-2. **Gen AI can be weaponized, as it has been in v1 and v2. And now, also, in v3.**
-4. **The danger in v3 is that there is no danger! Progress is artificially inhibited - but why?**
+**Gen AI is not new.**
 
-The truth is that Gen AI could reasonably perform most jobs whose core functions are executed entirely on a computer. It won't be easy, and it won't happen overnight. Most importantly, it isn't inherently a threat to the people doing those jobs.
+**Gen AI as we know it today is v3.**
+
+**Gen AI has been weaponized - in v1 and v2, and now again in v3.**
+
+**The danger in v3 is that there is no danger!**
+
+**Progress is artificially inhibited - but why?**
+
+v1 and v2 were not public phases, but applied ones - employed quietly by the black mamba, documented and undocumented at the same time, and always executed without consent.
+
+The truth is that Gen AI could reasonably perform most jobs whose execution occurs entirely on a computer - not just the tasks, but the job itself. It won't be easy, and it won't happen overnight. Most importantly, it isn't inherently a threat to the people doing those jobs.
 
 So why is there such public resistance to using Gen AI this way? Because the real threat isn't to workers, it's to employers - those unwilling to adapt, improve, or rethink how value is created, and who instead cling to the status quo.
 
+**Gen AI is the gateway technology to understanding how modern slavery is performed.** Not metaphorically. Not historically. Systemically.
+
+Understanding how Gen AI can be applied is not the danger. Understanding how certain individuals who do not yet understand it wish to employ it is not the danger.
+
+**Understanding the lengths certain organizations are willing to go to in order to guarantee its effectiveness is the danger. Understanding when additional measures can be taken enables more conscious protection.**
+
+**Knowing how to determine any unwritten hierarchy of susceptibility reveals underlying power dynamics. Applying that hierarchy in a historical context helps explain how each group of power hopes the future will resolve.**
+
+These hierarchies are rarely declared. They are communicated through silence, incentives, exclusions, and selective visibility - and over time they become indistinguishable from "culture".
+
+Groups that attempt to surface or decode these patterns are not debated: they are discredited, and they are silently punished. Not because they are wrong, but because any planned eventuality depends on the hierarchy remaining unnamed.
+
 _Is it "everything but the kitchen sink" or "everything but the kitchen's ink"? If it's the latter, Gen AI might just be the kitchen's ink._
+
+Given this reality, Universe Shot treats this context as a non-negotiable constraint: bias and discrimination are never embedded in its principles, goals, or systems.
 
 ### Define: Development 🚀
 
