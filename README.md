@@ -4,9 +4,22 @@ Technology is ready for innovation at a scale that has, until now, only been see
 
 Electronic computers enabled infinitely many tasks to be executed without requiring a human. Even with a computer, a person is still required to define, explore, refine, and otherwise develop those tasks. As well, a person typically holds responsibility for triggering tasks and adding per-use-case inputs. 
 
-Generative artificial intelligence is the second wave of digital computing. Machine learning can be considered the precursing requirement, but the scope is meaningfully different. Machine learning still had the basic person-in-the-loop requirement for task development and execution. Generative artificial intelligence removes the unwavering person-in-the-loop requirement for all tasks, including development itself. 
+Generative artificial intelligence (Gen AI) is the second wave of digital computing. Machine learning can be considered the precursing requirement, but the scope is meaningfully different. Machine learning still had the basic person-in-the-loop requirement for task development and execution. Generative artificial intelligence removes the unwavering person-in-the-loop requirement for all tasks, including development itself. 
 
 Computing as a field can be considered the pursuit of creating an electronic powered human equivalent. "Success" won't replace the need for people, but it will raise the bar for what people can achieve. Imagine if even the most junior student could explore, create, and execute with the equivalent of a University-scale research department and an enterprise-scale workforce. 
+
+## Critical Danger ☢️
+
+1. **Gen AI is not new.**
+3. **Gen AI as we know it today is v3.**
+2. **Gen AI can be weaponized, as it has been in v1 and v2. And now, also, in v3.**
+4. **The danger in v3 is that there is no danger! Progress is artificially inhibited - but why?**
+
+The truth is that Gen AI could reasonably perform most jobs whose core functions are executed entirely on a computer. It won't be easy, and it won't happen overnight. Most importantly, it isn't inherently a threat to the people doing those jobs.
+
+So why is there such public resistance to using Gen AI this way? Because the real threat isn't to workers, it's to employers - those unwilling to adapt, improve, or rethink how value is created, and who instead cling to the status quo.
+
+_Is it "everything but the kitchen sink" or "everything but the kitchen's ink"? If it's the latter, Gen AI might just be the kitchen's ink._
 
 ### Define: Development 🚀
 
@@ -28,13 +41,13 @@ If a misbalance is found, it presents the opportunity for creation of new adjace
 
 Generative artificial intelligence provides more than just machine-powered thinking: it presents a suite of resources that can be used to better enable all pre-existing technologies. As a result, it both identifies weaknesses in existing systems and weaknesses in how existing systems were developed. Any collision of ability and resources at this scale creates a proportionately scaled Big Bang-esque event. 
 
-**Where balance "should be" has changed almost overnight - any existing systems that fail to adjust accordingly are at risk of extinction. **
+**Where balance "should be" has changed almost overnight - any existing systems that fail to adjust accordingly are at risk of extinction.**
 
 That risk is considerably higher for any existing systems that have known about this shift and have already been forcibly skewing the balance on account of unstated priorities. That is because they have already been managing two balances: balance between known available development and stated available development, which is in turn used to determine balance between maintenance-focused units and development-focused units. Just like priorities are tiered, balance itself is also tiered. 
 
 // balance maintenance vs development, expansion and absorption
 
-### New Horizons ⭐
+## New Horizons ⭐
 
 
 ## Universe Shots 🌌
