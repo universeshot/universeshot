@@ -25,7 +25,7 @@ Every innovation suite has `n+1` applications: `n` existing applications and `1`
 
 Gen AI is not in a bubble in the way media is portraying it. Consider first that mainstream media is either owned or heavily influenced by the same organizations, corporations, and buckets of wealth that are at imminent risk of replacement. With the way every new layer of technology is peeled, these are now the same buckets overfilled with those familiar in shaking down `n` existing applications.
 
-Gen AI is in a bubble because the aforementioned buckets of wealth are now overlapping with government interests in the way this technology can be applied to, quite literally, every single person in the world.
+Gen AI is in a bubble because the aforementioned buckets of wealth are now overlapping with government interests in the way this technology can be applied to, quite literally, every single person in the world. As with the dot com bubble, one interpretation is that wealth continues to bubble upward. With the unimaginable breadth and capability introduced by digital Gen AI, there is a risk that the bubble neither fully pops nor fully stabilizes - instead persisting in a state of perpetual inflation and collapse.
 
 ### Define: Development 🚀
 
@@ -77,7 +77,9 @@ Understanding how Gen AI can be applied is not the danger. Understanding how cer
 
 These hierarchies are rarely declared. They are communicated through silence, incentives, exclusions, and selective visibility - and over time they become indistinguishable from "culture".
 
-Groups that attempt to surface or decode these patterns are not debated: they are discredited, and they are silently punished. Not because they are wrong, but because any planned eventuality depends on the hierarchy remaining unnamed.
+Groups that attempt to surface or decode these patterns are not debated: they are discredited, and they are silently punished. Not because they are wrong, but because any planned eventuality depends on the hierarchy remaining unnamed. 
+
+**The apex of the hierarchy persists by deliberately constraining exploration: controlling which ideas receive resources, how long they are allowed to develop, and redefining "success" in ways that prevent meaningful creation.**
 
 _Is it "everything but the kitchen sink" or "everything but the kitchen's ink"? If it's the latter, Gen AI might just be the kitchen's ink._
 
